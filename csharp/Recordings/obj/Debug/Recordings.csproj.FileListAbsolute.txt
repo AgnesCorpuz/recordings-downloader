@@ -1,0 +1,14 @@
+C:\Users\ccorpuz\source\repos\PureCloud\Recordings\Recordings\bin\Debug\Recordings.exe.config
+C:\Users\ccorpuz\source\repos\PureCloud\Recordings\Recordings\bin\Debug\Recordings.exe
+C:\Users\ccorpuz\source\repos\PureCloud\Recordings\Recordings\bin\Debug\Recordings.pdb
+C:\Users\ccorpuz\source\repos\PureCloud\Recordings\Recordings\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ccorpuz\source\repos\PureCloud\Recordings\Recordings\bin\Debug\PureCloudPlatform.Client.V2.dll
+C:\Users\ccorpuz\source\repos\PureCloud\Recordings\Recordings\bin\Debug\RestSharp.dll
+C:\Users\ccorpuz\source\repos\PureCloud\Recordings\Recordings\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ccorpuz\source\repos\PureCloud\Recordings\Recordings\bin\Debug\PureCloudPlatform.Client.V2.xml
+C:\Users\ccorpuz\source\repos\PureCloud\Recordings\Recordings\bin\Debug\RestSharp.xml
+C:\Users\ccorpuz\source\repos\PureCloud\Recordings\Recordings\obj\Debug\Recordings.csproj.CoreCompileInputs.cache
+C:\Users\ccorpuz\source\repos\PureCloud\Recordings\Recordings\obj\Debug\Recordings.csproj.CopyComplete
+C:\Users\ccorpuz\source\repos\PureCloud\Recordings\Recordings\obj\Debug\Recordings.exe
+C:\Users\ccorpuz\source\repos\PureCloud\Recordings\Recordings\obj\Debug\Recordings.pdb
+C:\Users\ccorpuz\source\repos\PureCloud\Recordings\Recordings\obj\Debug\Recordings.csprojResolveAssemblyReference.cache
